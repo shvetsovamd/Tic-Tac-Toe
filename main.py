@@ -1,8 +1,7 @@
 import platform
 import tkinter as tk
 
-from tkinter import messagebox
-from tkinter import PhotoImage
+from tkinter import messagebox, PhotoImage
 
 os_name = platform.system()
 
